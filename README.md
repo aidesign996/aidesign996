@@ -26,4 +26,10 @@
 
 **[AI 实践分享](https://github.com/aidesign996/ai-practice)** — 内容总目录，后续分享会从这里更新。
 
-目前分享入口已建立，首批内容尚未发布。
+### Team Leader 0.5.16
+
+给 AI 项目配一位负责人，带领团队朝正确的方向前进。负责人协调专业岗位，持续比较目标与实际成果，组织修正并保留项目知识。
+
+[English](https://aidesign996.github.io/ai-practice/team-leader/) · [繁體中文](https://aidesign996.github.io/ai-practice/team-leader/article-preview.zh-hant.html) · [简体中文](https://aidesign996.github.io/ai-practice/team-leader/article-preview.zh.html) · [下载与安装](https://github.com/aidesign996/ai-practice/releases/tag/team-leader-v0.5.16)
+
+Skill 采用 MIT 许可证。欢迎在文章下方分享使用场景与问题；三种语言共用同一个公开评论区，我会根据反馈继续优化。
