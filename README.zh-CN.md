@@ -1,6 +1,6 @@
 # AI Design 996
 
-[English](https://github.com/aidesign996/aidesign996/blob/main/README.md) · [繁體中文](https://github.com/aidesign996/aidesign996/blob/main/README.zh-Hant.md) · [简体中文](https://github.com/aidesign996/aidesign996/blob/main/README.zh-CN.md)
+[English](https://aidesign996.github.io/ai-practice/index.html) · [繁體中文](https://aidesign996.github.io/ai-practice/index.zh-hant.html) · [简体中文](https://aidesign996.github.io/ai-practice/index.zh.html)
 
 **AI 技能与实践分享**
 
