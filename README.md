@@ -13,7 +13,7 @@ Goals, feedback loops, and the design of Team Leader.
 
 ## Featured skill
 
-[Team Leader](https://aidesign996.github.io/ai-practice/skill-team-leader.html) · Astra · v0.5.16 · MIT<br>
+[Team Leader](https://github.com/aidesign996/team-leader) · Astra · v0.5.16 · MIT<br>
 Coordinate specialist roles and keep checking progress against your goal.
 
 ---
