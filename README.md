@@ -1,35 +1,31 @@
-<div align="center">
-
 # AI Design 996
 
-**AI 技能 · 工作方法 · 实践记录**
+[English](https://github.com/aidesign996/aidesign996/blob/main/README.md) · [繁體中文](https://github.com/aidesign996/aidesign996/blob/main/README.zh-Hant.md) · [简体中文](https://github.com/aidesign996/aidesign996/blob/main/README.zh-CN.md)
 
-分享我对 AI 的运用与实践。
+**AI skills, built through practice.**
 
-[浏览 AI 实践分享 →](https://github.com/aidesign996/ai-practice)
+I share reusable AI skills and the thinking behind my work. Pick a skill to use, or explore the notes behind it.
 
-</div>
+[Sharing home →](https://aidesign996.github.io/ai-practice/index.html)
+
+## Skills
+
+Installable skills you can use in your own projects.
+
+### Team Leader · 0.5.16
+
+Give your AI project a team lead. It coordinates specialist roles, compares results with your goal, and follows through on corrections.
+
+[Download Skill](https://github.com/aidesign996/ai-practice/releases/download/team-leader-v0.5.16/team-leader-0.5.16.zip) · [Installation & release notes](https://github.com/aidesign996/ai-practice/releases/tag/team-leader-v0.5.16) · [View source](https://github.com/aidesign996/ai-practice/tree/main/skills/team-leader)
+
+## Practice & notes
+
+Design decisions, working methods and project reflections.
+
+**2026-09-07 · Design notes**
+
+[Why I built an AI team lead](https://aidesign996.github.io/ai-practice/team-leader/) — The ideas behind Team Leader: goals and feedback, specialist roles, project knowledge, and the current limits of the method.
 
 ---
 
-你好，我是 **AI Design 996**。这里用来整理工作中可复用的 AI 方法、技能与案例。
-
-## 这里会分享什么
-
-| 内容 | 你可以看到 |
-| --- | --- |
-| 🧰 技能与工具 | Skills、提示词和配套说明 |
-| 🧭 工作方法 | 从问题到结果的操作过程 |
-| 📝 实践记录 | 示例、成果展示与使用限制 |
-
-## 分享入口
-
-**[AI 实践分享](https://github.com/aidesign996/ai-practice)** — 内容总目录，后续分享会从这里更新。
-
-### Team Leader 0.5.16
-
-给 AI 项目配一位负责人，带领团队朝正确的方向前进。负责人协调专业岗位，持续比较目标与实际成果，组织修正并保留项目知识。
-
-[English](https://aidesign996.github.io/ai-practice/team-leader/) · [繁體中文](https://aidesign996.github.io/ai-practice/team-leader/article-preview.zh-hant.html) · [简体中文](https://aidesign996.github.io/ai-practice/team-leader/article-preview.zh.html) · [下载与安装](https://github.com/aidesign996/ai-practice/releases/tag/team-leader-v0.5.16)
-
-Skill 采用 MIT 许可证。欢迎在文章下方分享使用场景与问题；三种语言共用同一个公开评论区，我会根据反馈继续优化。
+[Share feedback](https://aidesign996.github.io/ai-practice/team-leader/#comments) · Tell me the situation, what happened, and what would work better—all in one comment. English, Traditional Chinese and Simplified Chinese share one public discussion; everyone can read the original comments.
