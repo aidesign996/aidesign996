@@ -13,8 +13,10 @@
 
 ## 精选技能
 
-[Team Leader](https://github.com/aidesign996/team-leader/blob/main/README.zh-CN.md) · Astra · v0.5.17 · MIT<br>
+[Team Leader](https://github.com/aidesign996/team-leader/blob/main/README.zh-CN.md) · Astra · v0.5.18 · MIT<br>
 协调专业岗位，持续对照目标检查进展。
+
+[安装 / 更新](https://github.com/aidesign996/team-leader/blob/main/README.zh-CN.md#start) · [版本记录](https://github.com/aidesign996/team-leader/blob/main/CHANGELOG.md)
 
 ---
 
