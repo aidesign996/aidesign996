@@ -9,12 +9,12 @@
 ## 最新文章
 
 [為什麼我給 AI 項目配了一位負責人](https://aidesign996.github.io/ai-practice/article-team-leader.zh-hant.html)<br>
-目標、反饋迴路，以及 Team Leader 的設計。
+看方向、協調配合，讓經驗幫助下一次判斷。
 
 ## 精選技能
 
-[Team Leader](https://github.com/aidesign996/team-leader/blob/main/README.zh-Hant.md) · Astra · v0.5.18 · MIT<br>
-協調專業崗位，持續對照目標檢查進展。
+[Team Leader](https://github.com/aidesign996/team-leader/blob/main/README.zh-Hant.md) · Astra · v0.5.23 · MIT<br>
+持續看目標、協調配合，帶著經驗做事。
 
 [安裝 / 更新](https://github.com/aidesign996/team-leader/blob/main/README.zh-Hant.md#start) · [版本記錄](https://github.com/aidesign996/team-leader/blob/main/CHANGELOG.md)
 

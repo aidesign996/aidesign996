@@ -9,12 +9,12 @@
 ## 最新文章
 
 [为什么我给 AI 项目配了一位负责人](https://aidesign996.github.io/ai-practice/article-team-leader.zh.html)<br>
-目标、反馈回路，以及 Team Leader 的设计。
+看方向、协调配合，让经验帮助下一次判断。
 
 ## 精选技能
 
-[Team Leader](https://github.com/aidesign996/team-leader/blob/main/README.zh-CN.md) · Astra · v0.5.18 · MIT<br>
-协调专业岗位，持续对照目标检查进展。
+[Team Leader](https://github.com/aidesign996/team-leader/blob/main/README.zh-CN.md) · Astra · v0.5.23 · MIT<br>
+持续看目标、协调配合，带着经验做事。
 
 [安装 / 更新](https://github.com/aidesign996/team-leader/blob/main/README.zh-CN.md#start) · [版本记录](https://github.com/aidesign996/team-leader/blob/main/CHANGELOG.md)
 
