@@ -13,7 +13,7 @@ Keeping direction, working between leads, and learning from experience.
 
 ## Featured skill
 
-[Team Leader](https://github.com/aidesign996/team-leader) · Astra · v0.5.23 · MIT<br>
+[Team Leader](https://github.com/aidesign996/team-leader) · Astra · v0.5.24 · MIT<br>
 Keep direction, coordinate, and bring experience into the next decision.
 
 [Install / update](https://github.com/aidesign996/team-leader#start) · [Changes](https://github.com/aidesign996/team-leader/blob/main/CHANGELOG.md)
